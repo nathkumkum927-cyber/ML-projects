@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Practice
 
 This repository contains a collection of Machine Learning projects developed while learning and practicing core ML concepts and algorithms.
 
