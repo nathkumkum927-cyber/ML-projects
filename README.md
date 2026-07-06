@@ -6,16 +6,14 @@ This repository contains a collection of Machine Learning projects developed whi
 
 * Data Preprocessing and Feature Engineering
 * Regression Models
-
-  * Linear Regression
-  * Ridge & Lasso Regression
+* Linear Regression
+* Ridge & Lasso Regression
 * Classification Models
-
-  * Logistic Regression
-  * K-Nearest Neighbors (KNN)
-  * Decision Trees
-  * Random Forest
-  * Support Vector Machine (SVM)
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Decision Trees
+* Random Forest
+* Support Vector Machine (SVM)
 * Model Evaluation and Performance Analysis
 
 ## Purpose
