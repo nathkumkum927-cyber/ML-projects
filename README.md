@@ -39,7 +39,4 @@ The goal of this repository is to gain hands-on experience with Machine Learning
 * Scikit-learn
 * Jupyter Notebook
 
-## Learning Outcomes
-
-Through these projects, I explored the implementation of various Machine Learning algorithms, understood their working principles, and applied them to practical datasets to build predictive models.
 
